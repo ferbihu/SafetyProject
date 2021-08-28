@@ -46,5 +46,5 @@ Adicionalmente será necesario que creen desde psql una base de datos llamada `c
 
 El contenido de `client` fue creado usando: Create React App.
 
-## Enunciado
+
 
